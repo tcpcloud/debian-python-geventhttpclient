@@ -1,3 +1,9 @@
+geventhttpclient (1.1.0-0tcp1+xenial1) xenial; urgency=medium
+
+  * Build for xenial
+
+ -- Filip Pytloun <filip@pytloun.cz>  Fri, 27 Jan 2017 10:38:23 +0100
+
 geventhttpclient (1.1.0-0tcp1) trusty; urgency=low
 
   * source package automatically created by stdeb 0.8.2
